@@ -15,6 +15,8 @@ This program is a training example that uses a model created after fine-tuning a
 <pre><code># git clone https://github.com/ggerganov/llama.cpp
 # cd llama.cpp; cmake -B build;cmake --build build --config Release
 # cp build/bin/llama-quantize ./
+</code></pre>
+
 
 ## Run jupyter-notebook and select deepseek_finetuning_exercise notebook
 
